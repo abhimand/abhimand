@@ -4,7 +4,6 @@
 - 🌱 Software Engineer @ Phosphorus Cybersecurity
 - 💬 A big fan of: home automations, Formula 1, moving big weights, and losing money through options trading
 - 📫 Reach me at abmand98@gmail.com
-- 😄 Pronouns: He/Him/His
 
 <!--
 **abhimand/abhimand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
