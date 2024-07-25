@@ -2,7 +2,7 @@
 
 ### Welcome to Abhi's Github ###
 - 🌱 Software Engineer @ Phosphorus
-- 💬 A big fan of: home automations, Formula 1, moving big weights, and losing money through options trading
+- 💬 A big fan of: home automations, Formula 1, admiring expensive watches, moving big weights, and losing money through options trading
 - 📫 Reach me at abmand98@gmail.com
 
 <!--
